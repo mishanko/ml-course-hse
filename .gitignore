@@ -178,3 +178,10 @@ cython_debug/
 
 # Data Folder
 *.xlsx
+2024-fall/homework-practice/data/nyc-taxi-trip-duration.zip
+2024-fall/homework-practice/data/nyc-taxi-trip-duration/sample_submission.csv
+2024-fall/homework-practice/data/nyc-taxi-trip-duration/sample_submission.zip
+2024-fall/homework-practice/data/nyc-taxi-trip-duration/test.csv
+2024-fall/homework-practice/data/nyc-taxi-trip-duration/test.zip
+2024-fall/homework-practice/data/nyc-taxi-trip-duration/train.csv
+2024-fall/homework-practice/data/nyc-taxi-trip-duration/train.zip
